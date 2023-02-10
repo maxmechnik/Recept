@@ -13,6 +13,7 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
 4. Сравнить с заданием.
 
 *Ожидаемы результат:* Итоговый расчет должен быть в дробном выражении. 
+
 *Фактический результат:* Не настроен расчет в дробных долях. 
 
 # Окружение 
@@ -20,7 +21,7 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
 * **IDE:** IntelliJ IDEA 2022.3.2 (Ultimate Edition)
 * **Java** OpenJDK 11
   
-  
+
 # screen 
 ![image](https://drive.google.com/file/d/1ws7fBcYE8rKmakfD7F_De7QcWKE2bF9_/view?usp=sharing)
 
