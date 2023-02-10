@@ -23,7 +23,8 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
   
 
 # screen 
-![image](Screen1.png Screen2.png)
+![image](https://github.com/maxmechnik/Recept/blob/master/HelloNetology/Screen1.png)
+
 
 
 
