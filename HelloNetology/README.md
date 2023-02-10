@@ -22,8 +22,11 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
 * **Java** OpenJDK 11
   
 
-# screen 
+# Скриншот 
 ![image](https://github.com/maxmechnik/Recept/blob/master/HelloNetology/Screen1.png)
+![Image](https://github.com/maxmechnik/Recept/blob/master/HelloNetology/Screen2.png)
+
+
 
 
 
