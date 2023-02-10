@@ -23,7 +23,8 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
   
 
 # screen 
-![image](https://drive.google.com/file/d/1ws7fBcYE8rKmakfD7F_De7QcWKE2bF9_/view?usp=sharing)
+![image](Screen1.png Screen2.png)
+
 
 
 
