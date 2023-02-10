@@ -11,3 +11,8 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
 2. Запустить [код](https://github.com/maxmechnik/Recept/blob/master/HelloNetology/Main.java) в IDEA. 
 3. Проанализировать полученные результы. 
 4. Сравнить с заданием.
+
+# scren 
+![скрин 1](https://drive.google.com/file/d/1ws7fBcYE8rKmakfD7F_De7QcWKE2bF9_/view?usp=sharing)
+![скрин 2](https://drive.google.com/file/d/19zn5t1hI_EX7N2ytRT4TmBBvDuESUTkl/view?usp=sharing)
+
