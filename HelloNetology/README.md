@@ -13,4 +13,6 @@ https://github.com/maxmechnik/Recept/blob/master/HelloNetology/README.md
 4. Сравнить с заданием.
 
 # scren 
-[scren](https://drive.google.com/file/d/1ws7fBcYE8rKmakfD7F_De7QcWKE2bF9_/view?usp=share_link)
+https://drive.google.com/file/d/1ws7fBcYE8rKmakfD7F_De7QcWKE2bF9_/view?usp=sharing
+
+
